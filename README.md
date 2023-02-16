@@ -15,7 +15,7 @@ link: https://www.datos.gov.co/Estad-sticas-Nacionales/Entradas-de-extranjeros-a
 ### Modelos Utilizados:
 
 
-Video: 
+Video: https://youtu.be/sYOBVPj8EeM
 ##
 Codigo: https://github.com/JoseAT09/IA-Proyecto/blob/main/ProyectoFinal.ipynb
 ##
