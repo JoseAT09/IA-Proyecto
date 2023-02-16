@@ -13,7 +13,9 @@ Este dataset lo proporciona el gobierno y está dividido por año, nacionalidad,
 link: https://www.datos.gov.co/Estad-sticas-Nacionales/Entradas-de-extranjeros-a-Colombia/96sh-4v8d/data
 
 ### Modelos Utilizados:
-
+- Gaussian NB
+- Decision Tree classifier
+- DecisionTreeRegressor
 
 Video: https://youtu.be/sYOBVPj8EeM
 ##
