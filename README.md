@@ -16,5 +16,7 @@ link: https://www.datos.gov.co/Estad-sticas-Nacionales/Entradas-de-extranjeros-a
 
 
 Video: 
+##
 Codigo: https://github.com/JoseAT09/IA-Proyecto/blob/main/ProyectoFinal.ipynb
+##
 Repositorio: https://github.com/JoseAT09/IA-Proyecto
